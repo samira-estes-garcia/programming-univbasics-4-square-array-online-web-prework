@@ -5,7 +5,3 @@ def square_array(array)
     counter += 1
   end
 end
-
-square_my_arr = [1,2,3]
-
-square_array(square_my_arr)
